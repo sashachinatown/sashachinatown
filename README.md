@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sashachinatown
 - 👀 I’m interested in Front End and Web Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
